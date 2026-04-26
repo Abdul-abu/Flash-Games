@@ -1,3 +1,1 @@
-the games are in the zip folder. open the html file to play in browser
-
-needs adobe flashplayer to run "already in windows"
+All the games are provided in the ZIP archive. Extract the files and open the HTML document in a browser to play. Note that the games require Adobe Flash Player, which is included natively in Windows.
